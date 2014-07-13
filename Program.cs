@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 
-//This is wrong
 namespace MultiFaceRec
 {
     static class Program
