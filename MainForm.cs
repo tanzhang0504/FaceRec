@@ -151,8 +151,6 @@ namespace MultiFaceRec
             }
         }
 
-
-        //Keep reading frames from the socket
         void FrameGrabber(object sender, EventArgs e)
         {
             label3.Text = "0";
